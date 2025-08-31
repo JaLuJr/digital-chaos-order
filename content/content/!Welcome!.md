@@ -4,10 +4,9 @@ title: Welcome
 
 ## Main Categories
 
-- [[personal-growth/index|Personal Growth]]
-- [[academic-concepts/index|Academic Concepts]]
-- [[creative-writing/index|Creative Writing]]
-- [[music-and-memory/index|Music and Memory]]
-- [[digital-tools/index|Digital Tools]]
-- [[peer-connections/index|Peer Connections]]
-- [[reflective-journal/index|Reflective Journal]]
+- [Personal Growth](https://jalujr.github.io/digital-chaos-order/content/personal-growth/)
+- [Academic Concepts](https://jalujr.github.io/digital-chaos-order/content/academic-concepts/)
+- [Creative Writing](https://jalujr.github.io/digital-chaos-order/content/creative-writing/)
+- [Music and Memory](https://jalujr.github.io/digital-chaos-order/content/music-memory/)
+- [Digital Tools](https://jalujr.github.io/digital-chaos-order/content/digital-tools/)
+- [Reflective Journal](https://jalujr.github.io/digital-chaos-order/content/reflective-journal/)
