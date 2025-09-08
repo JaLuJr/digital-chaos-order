@@ -1,21 +1,13 @@
-<main>
 
-  <h1>Hello, I'm Jarian!</h1>
+## Hello, I'm Jarian!
 
-  <h2>About Me</h2>
+## About Me
 
-  <p>I’m a student at Texas Tech, passionate about creative writing, music, and digital organization.</p>
+I’m a student at Texas Tech, passionate about creative writing, music, and digital organization.
 
-  <h2>Fun Facts</h2>
+## Fun Facts
+I play the trombone 🎺
 
-  <ul>
+I name my playlists by how they make me feel
 
-    <li>I play the trombone 🎺</li>
-
-    <li>I name my playlists by how they make me feel</li>
-
-    <li>I love learning new tools</li>
-
-  </ul>
-
-</main>
+I love learning new tools
