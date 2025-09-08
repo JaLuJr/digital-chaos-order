@@ -1,0 +1,86 @@
+body {
+  font-family: 'Palatino', 'Palatino Linotype', 'Book Antiqua', serif;
+  background-color: #e4cc72;
+  color: #643607;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 2.5em;
+  color: #403d5d;
+  margin-bottom: 0.5em;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+h1:hover, h2:hover {
+  color: #e3964a;
+  text-shadow: 1px 1px 3px #403d5d;
+}
+
+/* Paragraphs and List Items */
+p, li {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 20px 0;
+  padding: 10px;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+}
+
+p:hover, li:hover {
+  background-color: #f7edc0;
+  border: 2px dashed #97dff6;
+  color: #7a4e42;
+  box-shadow: 2px 2px 8px rgba(64, 61, 93, 0.3);
+}
+
+/* Unordered List */
+ul {
+  padding-left: 20px;
+  list-style-type: circle;
+}
+
+/* Special Trombone Fact */
+.trombone {
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.trombone:hover {
+  background-color: #efce58;
+  border: 2px solid #403d5d;
+  transform: scale(1.05);
+  color: #403d5d;
+}
+
+/* Optional: Section Glow */
+section:hover, div:hover {
+  background-color: #fff8dc;
+  transition: background-color 0.5s ease;
+}
+
+/* ✅ Box Model Exercise */
+.box {
+  width: 300px;
+  height: 150px;
+  background-color: #f7edc0;
+  border: 2px solid #403d5d;
+  padding: 20px;
+  margin: 40px auto;
+  text-align: center;
+  box-shadow: 2px 2px 8px rgba(64, 61, 93, 0.3);
+  transition: all 0.3s ease;
+}
+
+.box:hover {
+  background-color: #efce58;
+  border-color: #97dff6;
+  transform: scale(1.05);
+}
