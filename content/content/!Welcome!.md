@@ -1,7 +1,7 @@
 ---
 title: Welcome
 ---
-[[!Intro!|Introduction]]
+
 [[About|About Me]]
 ## Main Categories
 
