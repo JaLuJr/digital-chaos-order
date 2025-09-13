@@ -5,7 +5,7 @@ title: Welcome
 [[About|About Me]]
 ## Main Categories
 
-- [Academic Concepts](https://jalujr.github.io/digital-chaos-order/content/academic-concepts/)
+ [[academic-concepts/index|Academic Concepts]]
 - [[creative-writing/index|Creative Writings]]
 - [[digital-tools/index|Digital Tools]]
 - [[music-and-memory/index|Music and Memory]]
