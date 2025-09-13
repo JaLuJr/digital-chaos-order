@@ -7,4 +7,4 @@ Last week, I found myself organizing my playlist by emotion again — not just f
 
 ## Related Concepts
 
-This idea connects to [[academic-concepts/index|cognitive scaffolding]], where external tools help us build and organize internal understanding.
+This idea connects to [[Academic Concepts|cognitive scaffolding]], where external tools help us build and organize internal understanding.

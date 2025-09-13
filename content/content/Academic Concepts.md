@@ -7,4 +7,4 @@ Cognitive scaffolding is a theory that suggests we use external tools — like n
 
 ## Related Reflections
 
-This concept is reflected in my [[reflective-journal/index|personal journaling habits]], especially when I organize music or memories to understand my emotional state.
+This concept is reflected in my [[Reflective Journal|personal journaling habits]], especially when I organize music or memories to understand my emotional state.

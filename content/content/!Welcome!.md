@@ -5,9 +5,8 @@ title: Welcome
 [[About|About Me]]
 ## Main Categories
 
- [[academic-concepts/index|Academic Concepts]]
-- [[creative-writing/index|Creative Writings]]
-- [[digital-tools/index|Digital Tools]]
-- [[music-and-memory/index|Music and Memory]]
-- [[personal-growth/index|Personal Growth]]
-- [[reflective-journal/index|Reflective Journal]]
+- [[Academic Concepts|Academic Concepts]]
+- [[Creative Writing|Creative Writings]]
+- [[Digital Tools|Digital Tools]]
+- [[Music and Memory|Music and Memory]]
+- [[Reflective Journal|Reflective Journal]]
