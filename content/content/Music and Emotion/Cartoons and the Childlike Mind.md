@@ -7,5 +7,5 @@ Cartoons are timeless. They’re funny, weird, and wonderfully relaxing. Watchin
 - They offer emotional relief
 - They encourage playfulness
 - They create nostalgic comfort
-
+![[SpongeBob Picture.jpg]]
 Cartoons remind me that it’s okay to be silly, to escape, to feel light. They’re my giggle in the dark, my comfort on a tough day. This playful escape pairs well with the soothing tones of [[Jazz and Me]] and the emotional storytelling in [[Playlists as Emotional Mirrors]]. For more behind-the-scenes magic, check out [[The Magic Behind the Curtain]].

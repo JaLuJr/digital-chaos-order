@@ -7,5 +7,7 @@ Creating playlists based on emotions is like painting with sound. Each track bec
 - Reflection: soft piano, ambient tones
 - Confidence: bass-heavy anthems
 - Comfort: dreamy R&B
+![[Screenshot 2025-09-14 021830.png]]
 
+![[Screenshot 2025-09-14 021901.png]]
 It’s a way of caring for myself, of tuning into my inner world. The process is intuitive: a soft piano piece for reflection, a bass-heavy anthem for confidence, or a dreamy R&B track for comfort. For more on how music shapes emotion, see [[Playlists as Emotional Mirrors]] and [[Jazz and Me]]. You can also explore how performance amplifies emotion in [[The Magic Behind the Curtain]] and how media brings joy in [[Cartoons and the Childlike Mind]].

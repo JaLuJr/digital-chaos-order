@@ -7,5 +7,5 @@ There’s something electric about being backstage in a musical. It’s a world 
 - Costume transformations
 - Performer rituals
 - Crew camaraderie
-
+![[Lion-King-Musical.avif]]
 Being part of that world means witnessing joy, vulnerability, and artistry up close. It’s where the magic begins; before the curtain rises. This connects beautifully with the emotional storytelling in [[Playlists as Emotional Mirrors]] and the soothing power of sound in [[Jazz and Me]]. For more playful escapes, check out [[Cartoons and the Childlike Mind]].

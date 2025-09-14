@@ -7,5 +7,5 @@ Jazz has a way of wrapping around the soul like a warm blanket. Its smooth rhyth
 - It’s deeply emotional
 - It connects to cultural roots
 - It creates a peaceful atmosphere
-
+![[JazzTrombonePicture.jpg]]
 Whether it’s Miles Davis or a local jam session, jazz brings me back to myself. It’s not just music; it’s a mood, a memory, a moment. For more on how sound shapes emotion, see [[Playlists as Emotional Mirrors]]. You can also explore how performance amplifies feeling in [[The Magic Behind the Curtain]].
