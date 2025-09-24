@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "16eff9fb01ee1f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a699eace895ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85232532eab5870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "ad5fb1419a7ec8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic Concepts"
+            }
+          },
+          {
+            "id": "d2250c17431dd3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creative Writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creative Writing"
+            }
+          },
+          {
+            "id": "f072f0291350e0d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Tools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Tools"
+            }
+          },
+          {
+            "id": "2389c9cf74af0bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music and Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music and Memory"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2b9ed5393db2ecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "10baea34a6c91a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178ecdafc30e9555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa9103614ec68437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4313886547d4965f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dcb229209e21ba78",
+    "type": "split",
+    "children": [
+      {
+        "id": "0530a1b350b7084b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf4a8c43f1a4384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for About"
+            }
+          },
+          {
+            "id": "fc25f65fb7ced6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from About"
+            }
+          },
+          {
+            "id": "e54f6bef04f6cbfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c24094948014c144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of About"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2389c9cf74af0bee",
+  "lastOpenFiles": [
+    "JaLuJr.io/harmony_haven_prototype/README.md",
+    "JaLuJr.io/harmony_haven_prototype/styles.css",
+    "JaLuJr.io/harmony_haven_prototype/adopt.html",
+    "JaLuJr.io/harmony_haven_prototype/index.html",
+    "final-project-scope.md/Project Scope Statement.md",
+    "JaLuJr.io/harmony_haven_prototype/final-project-scope.md/Project Scope Statement.md",
+    "JaLuJr.io/harmony_haven_prototype/final-project-scope.md",
+    "JaLuJr.io/harmony_haven_prototype/New folder",
+    "JaLuJr.io/harmony_haven_prototype/HH Style.css",
+    "JaLuJr.io/harmony_haven_prototype/AD+MP Style.css",
+    "JaLuJr.io/harmony_haven_prototype",
+    "JaLuJr.io/New folder",
+    "JaLuJr.io/index-md/AD+MP Style.css",
+    "JaLuJr.io/index-md/HH Style.css",
+    "JaLuJr.io/Project01_IntroWebpage/change-request.md/Project Change Request.md",
+    "JaLuJr.io/Project01_IntroWebpage/change-request.md/Untitled.md",
+    "JaLuJr.io/Untitled.md",
+    "Untitled.md",
+    "final-project-scope.md",
+    "final-project-scope.md.md",
+    "Music and Emotion/First Concert Experience.md",
+    "Untitled/Untitled.md",
+    "JaLuJr.io/README.md",
+    "JaLuJr.io/JaLuJr.io/README.md",
+    "JaLuJr.io/index-md/personal-intro/change-request.md",
+    "Music and Emotion/Playlists as Emotional Mirrors.md",
+    "Screenshot 2025-09-14 021901.png",
+    "Screenshot 2025-09-14 021830.png",
+    "Music and Emotion/The Magic Behind the Curtain.md",
+    "Lion-King-Musical.avif",
+    "Music and Emotion/Music and Emotion Index.md",
+    "Music and Emotion/Jazz and Me.md",
+    "Music and Emotion/Cartoons and the Childlike Mind.md",
+    "SpongeBob Picture.jpg",
+    "JazzTrombonePicture.jpg",
+    "JazzTrombonePicture.jpg.md",
+    "Jazz.md",
+    "Jazz Trombone Picture.jpg",
+    "Sp.md",
+    "JaLuJr.io/JaLuJr/README.md",
+    "jazz-comfort.md",
+    "cartoons-childlike-mind.md"
+  ]
+}
