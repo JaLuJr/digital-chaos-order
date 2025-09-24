@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f8f8;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background: #e0e7ef;
+  padding: 2em 1em;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+}
+
+main {
+  max-width: 700px;
+  margin: 2em auto;
+  padding: 1em;
+}
+
+.dog-profile {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  margin-bottom: 2em;
+  padding: 1.5em;
+}
+
+.dog-profile h2 {
+  margin-top: 0;
+}
