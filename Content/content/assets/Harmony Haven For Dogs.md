@@ -8,4 +8,4 @@ To ground this vision in research, the study "_Effect of Classical Music on Dogs
 
 Harmony Haven builds on this foundation, imagining a space where rescued dogs not only recover but thrive; surrounded by melodies that soothe, volunteers who care, and rhythms that gently guide them toward adoption.
 ## Read Study: Effect of classical music on dogs’ behavior in the shelter
-![[Effect _of _classical _music.pdf]]
+[[Effect _of _classical _music.pdf]]
