@@ -1,4 +1,4 @@
-![Rescued dog resting peacefully near a speaker playing classical music](Music_and_dogs'_behavior.webp)
+![Rescued dog resting peacefully near a speaker playing classical music](Music and dogs' behavior.webp)
 
 This image captures the heart of Harmony Haven’s mission: creating a sanctuary where music becomes a bridge to healing for rescued dogs. The peaceful posture of the dog, headphones gently resting, suggests more than relaxation—it reflects emotional restoration through sound.
 
