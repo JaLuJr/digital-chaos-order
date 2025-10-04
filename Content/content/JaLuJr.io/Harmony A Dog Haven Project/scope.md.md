@@ -1,3 +1,4 @@
+# Project Scope Statement
 ## Project Name
 Harmony Haven: A Music-Based Sanctuary for Rescued Dogs
 
