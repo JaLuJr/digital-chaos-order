@@ -1,7 +1,4 @@
-
-### Updated `references.md` for **music-and-memory-research**
-
-## References
+## M&M Research References
 
 1. Shriya, M. & Bhuyan, B. (2025). Role of Music in Improving Focus and Memory Retention in Academic Students. International Journal of Indian Psychology. https://ijip.in/wp-content/uploads/2025/02/18.01.050.20251301.pdf  
 2. Fernandes, M., Tanberg, P., & Yeung, R. (2025). Evidence of temporal and emotional alignment between song cues and their evoked autobiographical memories. Memory & Cognition. University of Waterloo News.  
