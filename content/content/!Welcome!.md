@@ -24,3 +24,8 @@ title: Welcome
 - [[Markdown and Metaphor]]
 - [[Creative Arrangement]]
 - [[Creative Systems/References|Creative Systems References]]
+> Emotional Organization
+- [[A Taxonomy of Self]]
+- [[Emotional Building]]
+- [[Emotional Indexing Across Media]]
+- [[Folders as Feelings]]
