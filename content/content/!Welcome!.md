@@ -15,4 +15,4 @@ title: Welcome
 - [[Schema Theory and Musical Memory]]
 - [[Emotional Resonance of Sound]]
 - [[Playlist as Memory Palace]]
-- [[References]]
+- [[References|Music and Memory Research Refences]]
