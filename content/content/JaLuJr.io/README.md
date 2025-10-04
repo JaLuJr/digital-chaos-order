@@ -1,2 +1,0 @@
-# JaLuJr.io
-
